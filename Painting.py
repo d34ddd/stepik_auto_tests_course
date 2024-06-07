@@ -12,5 +12,3 @@ def draw_rectangle(x, y, widht, height):
         turtle.left(90)
     turtle.end_fill()
     turtle.mainloop()
-if __name__ == '__main__':  # именно из этой точки начинает выполнение алгоритма
-    main()

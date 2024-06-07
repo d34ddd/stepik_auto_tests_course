@@ -1,6 +1,6 @@
 import turtle
 
-def draw_rectangle(x, y, widht, height)
+def draw_rectangle(x, y, widht, height):
     turtle.goto(x, y)
     turtle.pencolor('blue')
     turtle.fillcolor('black')
